@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Python" width="26px" src="https://en.wikiversity.org/wiki/Python#/media/File:Python.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Tensorflow" width="26px" src="https://en.wikipedia.org/wiki/TensorFlow#/media/File:TensorFlow_logo.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
